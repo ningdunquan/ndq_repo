@@ -1,4 +1,4 @@
-package com.hello.world.java;
+package com.hello.world.bean;
 
 public class Person {
 
